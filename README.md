@@ -16,8 +16,8 @@ CREATE DATABASE Teste
 
 **3. Mudar postgress username e password**
 
-+ open `src/main/resources/application.properties`
-+ change `spring.datasource.username` and `spring.datasource.password` conforme a sua intalação do PostgreSQL
++ Abra `src/main/resources/application.properties`
++ Mude `spring.datasource.username` and `spring.datasource.password` conforme a sua intalação do PostgreSQL
 
 **4. Rode a api**
 
